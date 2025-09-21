@@ -6,8 +6,8 @@
 
 <p align="left">About Me !!</p>
 
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/nicholas-devin-daniardi-806979344/" style="display: inline-block;"><img src="[https://www.linkedin.com/in/nicholas-devin-daniardi-806979344/](https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000)" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/nicholasonearth/" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="instagram" /></a>
+<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/nicholas-devin-daniardi-806979344/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/nicholasonearth/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/@whynic8038" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 
 <h2 align="left">My hobby is playing basketball and learning various things as below</h2>
