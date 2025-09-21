@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="2000" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxxMHBkbTZpd2gybWduNXRsY3djdzBwYXdkb2dtdmd6YjJsbXFlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RSPAUsEy1azRu/giphy.gif"  />
+  <img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxxMHBkbTZpd2gybWduNXRsY3djdzBwYXdkb2dtdmd6YjJsbXFlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RSPAUsEy1azRu/giphy.gif"  />
 </div>
 
 <h3 align="left">Welcome to my ordinary GitHub profile. I am a student at Dian Nuswantoro University, Faculty of Computer Science, Informatics Engineering Department.</h3>
