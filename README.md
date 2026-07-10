@@ -78,7 +78,7 @@ I believe good data science isn't about fancy models, it's about **asking the ri
 
 ### 💭 Quote yang aku pegang
 
-<i>"Segala sesuatu selalu terlihat mustahil sampai hal itu berhasil dilakukan."</i> — Nicholas Devin
+<i>"Segala sesuatu selalu terlihat mustahil sampai hal itu berhasil dilakukan."</i> — Nelson Mandela
 
 </div>
 
