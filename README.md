@@ -76,7 +76,7 @@ I believe good data science isn't about fancy models, it's about **asking the ri
 
 <div align="center">
 
-### 💭 Quote yang aku pegang
+### 💭 My Favorite Quote
 
 <i>"Segala sesuatu selalu terlihat mustahil sampai hal itu berhasil dilakukan."</i> — Nelson Mandela
 
