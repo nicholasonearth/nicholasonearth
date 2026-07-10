@@ -81,8 +81,6 @@
     <span style={{ padding: '6px 16px', background: 'rgba(15,23,42,0.7)', color: '#06B6D4', borderRadius: 12, fontSize: 12, fontWeight: 600, border: '1px solid rgba(6,182,212,0.3)', backdropFilter: 'blur(10px)' }}>Flutter</span>
   </div>
 </div>
-
-
 <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', background: 'linear-gradient(135deg, #050816, #0F172A)', borderRadius: 14, fontFamily: 'Inter, sans-serif', position: 'relative', overflow: 'hidden' }}>
   <svg width="200" height="44" style={{ position: 'absolute', top: 0, left: 0 }}>
     <defs>
@@ -103,27 +101,7 @@
   </svg>
   <span style={{ fontSize: 13, fontWeight: 700, color: '#fafafa', marginLeft: 16, zIndex: 10 }}>Portfolio Website</span>
 </div>
-
-
-👨‍💻 About Me
-
-🎓 Informatics Engineering Student at Universitas Dian Nuswantoro (UDINUS)
-
-📍 Based in Semarang, Central Java, Indonesia
-
-🤖 AI & Machine Learning Enthusiast building intelligent, data-driven applications
-
-📊 Deeply interested in Data Science, Deep Learning, and Computer Vision
-
-📱 Developing cross-platform applications as a Flutter Developer
-
-🌐 Strong background in Computer Networking (TJKT/TKJ) and IT infrastructure
-
-🚀 Always learning new technologies and scaling logistics through CV DGP LOGISTIK
-
-🛠️ Tech Stack
-
-<div style={{ display: 'flex', flexWrap: 'wrap', gap: 12, padding: '24px 30px', width: '100%', height: '100%', background: '#050816', borderRadius: 20, alignItems: 'center', justifyContent: 'center', fontFamily: 'Inter, sans-serif', position: 'relative', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.08)' }}>
+👨‍💻 About Me🎓 Informatics Engineering Student at Universitas Dian Nuswantoro (UDINUS)📍 Based in Semarang, Central Java, Indonesia🤖 AI & Machine Learning Enthusiast building intelligent, data-driven applications📊 Deeply interested in Data Science, Deep Learning, and Computer Vision📱 Developing cross-platform applications as a Flutter Developer🌐 Strong background in Computer Networking (TJKT/TKJ) and IT infrastructure🚀 Always learning new technologies and scaling logistics through CV DGP LOGISTIK🛠️ Tech Stack<div style={{ display: 'flex', flexWrap: 'wrap', gap: 12, padding: '24px 30px', width: '100%', height: '100%', background: '#050816', borderRadius: 20, alignItems: 'center', justifyContent: 'center', fontFamily: 'Inter, sans-serif', position: 'relative', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.08)' }}>
   <style>
     {`
       @keyframes ts-drift-right { 0%, 100% { transform: translate(0, 0); opacity: 0.8; } 50% { transform: translate(27px, -9px); opacity: 1.1; } }
@@ -174,11 +152,7 @@
   <span style={{ padding: '6px 16px', background: 'rgba(15,23,42,0.7)', color: '#06B6D4', borderRadius: 16, fontSize: 13, fontWeight: 600, border: '1px solid rgba(255,255,255,0.08)', zIndex: 10, backdropFilter: 'blur(8px)' }}>Docker / Linux</span>
   <span style={{ padding: '6px 16px', background: 'rgba(15,23,42,0.7)', color: '#22C55E', borderRadius: 16, fontSize: 13, fontWeight: 600, border: '1px solid rgba(255,255,255,0.08)', zIndex: 10, backdropFilter: 'blur(8px)' }}>MySQL / PostgreSQL</span>
 </div>
-
-
-🚀 Featured Projects
-
-<div style={{ display: 'flex', width: '100%', height: '100%', gap: 12, fontFamily: 'Inter, sans-serif', position: 'relative', overflow: 'hidden', background: '#050816', borderRadius: 16, padding: 24, border: '1px solid rgba(255,255,255,0.08)' }}>
+🚀 Featured Projects<div style={{ display: 'flex', width: '100%', height: '100%', gap: 12, fontFamily: 'Inter, sans-serif', position: 'relative', overflow: 'hidden', background: '#050816', borderRadius: 16, padding: 24, border: '1px solid rgba(255,255,255,0.08)' }}>
   <style>
     {`
       @keyframes proj-drift-r { 0%, 100% { transform: translate(0, 0); opacity: 0.8; } 50% { transform: translate(30px, -15px); opacity: 1.05; } }
@@ -234,11 +208,7 @@
     <span style={{ fontSize: 13, color: '#CBD5E1', lineHeight: 1.4 }}>Data management dashboard and operations digitalization created during professional internship at PT Telkom Akses.</span>
   </div>
 </div>
-
-
-🏆 Certifications & Education
-
-<div style={{ display: 'flex', width: '100%', height: '100%', gap: 12, fontFamily: 'Inter, sans-serif', position: 'relative', overflow: 'hidden', background: '#050816', borderRadius: 16, padding: 20, border: '1px solid rgba(255,255,255,0.08)' }}>
+🏆 Certifications & Education<div style={{ display: 'flex', width: '100%', height: '100%', gap: 12, fontFamily: 'Inter, sans-serif', position: 'relative', overflow: 'hidden', background: '#050816', borderRadius: 16, padding: 20, border: '1px solid rgba(255,255,255,0.08)' }}>
   <style>
     {`
       @keyframes cert-drift-right { 0%, 100% { transform: translate(0, 0); opacity: 0.8; } 50% { transform: translate(37px, -18px); opacity: 1.1; } }
@@ -290,32 +260,18 @@
     <span style={{ fontSize: 13, color: '#94A3B8', marginTop: 4 }}>Advanced Computer Vision & Neural Networks</span>
   </div>
 </div>
-
-
-📈 GitHub Stats
-
-📬 Connect with Me
-
-<div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', background: '#0F172A', borderRadius: 12, border: '1px solid rgba(255,255,255,0.1)', fontFamily: 'Inter, sans-serif' }}>
+📈 GitHub Stats📬 Connect with Me<div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', background: '#0F172A', borderRadius: 12, border: '1px solid rgba(255,255,255,0.1)', fontFamily: 'Inter, sans-serif' }}>
   <span style={{ fontSize: 14, fontWeight: 600, color: '#ffffff' }}>GitHub</span>
 </div>
-
-
 <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', background: '#0F172A', borderRadius: 12, border: '1px solid rgba(59,130,246,0.3)', fontFamily: 'Inter, sans-serif' }}>
   <span style={{ fontSize: 14, fontWeight: 600, color: '#3B82F6' }}>LinkedIn</span>
 </div>
-
-
 <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', background: '#0F172A', borderRadius: 12, border: '1px solid rgba(139,92,246,0.3)', fontFamily: 'Inter, sans-serif' }}>
   <span style={{ fontSize: 14, fontWeight: 600, color: '#8B5CF6' }}>Instagram</span>
 </div>
-
-
 <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', background: '#0F172A', borderRadius: 12, border: '1px solid rgba(6,182,212,0.3)', fontFamily: 'Inter, sans-serif' }}>
   <span style={{ fontSize: 14, fontWeight: 600, color: '#06B6D4' }}>Email Me</span>
 </div>
-
-
 <div style={{ position: 'relative', overflow: 'hidden', width: '100%', height: '100%', background: 'transparent', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: 'Inter, sans-serif' }}>
   <style>
     {`
