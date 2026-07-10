@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Nicholas%20Devin%20Daniardi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Nicholas%20Devin%20Daniardi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/nicholas-devin-daniardi-806979344/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Enthusiast;Currently+Learning+Machine+Learning+%26+Deep+Learning;Informatics+Engineering+Student;Turning+Data+Into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Enthusiast;Learning+Machine+Learning+%26+Deep+Learning;Informatics+Engineering+Student;Turning+Data+Into+Decisions" alt="Typing SVG" />
 </a>
 
 <br/><br/>
