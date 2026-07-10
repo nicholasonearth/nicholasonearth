@@ -64,19 +64,6 @@ I believe good data science isn't about fancy models, it's about **asking the ri
 
 <br/>
 
-## 🗺️ Currently on my radar
-
-```
-[■■■■■■■■■■□□□□□□□□□□]  Machine Learning Fundamentals
-[■■■■■■■□□□□□□□□□□□□□]  Deep Learning (CNNs, TensorFlow/PyTorch)
-[■■■■■□□□□□□□□□□□□□□□]  Computer Vision with OpenCV
-[■■■□□□□□□□□□□□□□□□□□]  MLOps & Model Deployment
-```
-
-<sub>📝 Progress bar ini manual — update sendiri seiring belajar, atau ganti dengan angka % yang lebih relevan buat kamu.</sub>
-
-<br/>
-
 ## 🐍 My Contribution Snake
 
 <div align="center">
@@ -85,15 +72,13 @@ I believe good data science isn't about fancy models, it's about **asking the ri
 
 </div>
 
-> 💡 Ini contoh statis. Aktifkan animasi asli dari kontribusi GitHub kamu lewat **[platane/snk](https://github.com/Platane/snk)** — setup sekali via GitHub Action, update otomatis tiap hari.
-
 <br/>
 
 <div align="center">
 
 ### 💭 Quote yang aku pegang
 
-<i>"In God we trust. All others must bring data."</i> — W. Edwards Deming
+<i>"Segala sesuatu selalu terlihat mustahil sampai hal itu berhasil dilakukan."</i> — Nicholas Devin
 
 <br/><br/>
 
