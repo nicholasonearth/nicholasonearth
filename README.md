@@ -80,15 +80,6 @@ I believe good data science isn't about fancy models, it's about **asking the ri
 
 <i>"Segala sesuatu selalu terlihat mustahil sampai hal itu berhasil dilakukan."</i> — Nicholas Devin
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/nicholas-devin-daniardi-806979344/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://portofolionicholasdevin.vercel.app/">
-  <img src="https://img.shields.io/badge/View%20My%20Portfolio-00C6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer" width="100%"/>
